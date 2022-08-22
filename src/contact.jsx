@@ -18,7 +18,7 @@ export default class Contact extends Component {
                       <h4 className='text-danger mt-4'>Get Connected with Gym</h4>
                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                       <p>Gali no 11, House no 11, Lahore</p>
-                      <p>92 9999999999</p>
+                      <p>92 9999999933</p>
                       <p>info@gym.com</p>
                   </div>
               </div>

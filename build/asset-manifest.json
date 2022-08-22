@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e35efa71.css",
+    "main.js": "/static/js/main.356b26fa.js",
+    "static/media/class2.png": "/static/media/class2.6ba4eae004357d563192.png",
+    "static/media/about2.jpg": "/static/media/about2.a703fc58fda8fe7cceb4.jpg",
+    "static/media/about1.jpg": "/static/media/about1.b7ece73e90bbb8da0456.jpg",
+    "static/media/about3.jpg": "/static/media/about3.97abf7e33d6eab14dd8c.jpg",
+    "static/media/home.jpg": "/static/media/home.6f68350ef8bb33bc1954.jpg",
+    "static/media/gallery3.jpg": "/static/media/gallery3.9d68d1d0d80e40e7e3e2.jpg",
+    "static/media/gallery1.jpg": "/static/media/gallery1.cff7a818a722f44d2f3c.jpg",
+    "static/media/gallery2.jpg": "/static/media/gallery2.8bd0d4d3153f1827ba9e.jpg",
+    "static/media/gallery4.jpg": "/static/media/gallery4.cb7728059c7aa6d56d82.jpg",
+    "static/media/price1.jpg": "/static/media/price1.8c91b388deb19e8a7499.jpg",
+    "static/media/class1.jpg": "/static/media/class1.1e4f8aac08208d646954.jpg",
+    "static/media/price2.jpg": "/static/media/price2.eca1cd0a7120daf931c2.jpg",
+    "static/media/price3.jpg": "/static/media/price3.a8f9dbf00eb08177cc68.jpg",
+    "index.html": "/index.html",
+    "main.e35efa71.css.map": "/static/css/main.e35efa71.css.map",
+    "main.356b26fa.js.map": "/static/js/main.356b26fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35efa71.css",
+    "static/js/main.356b26fa.js"
+  ]
+}
