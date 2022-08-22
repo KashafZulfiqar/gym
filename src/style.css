@@ -1,0 +1,76 @@
+.navb{
+    background: #000;
+}
+.headr{
+    background-image: url(aeserts/home.jpg);
+    background-size: 100% 100%;
+    height: 88vh;
+}
+.hd1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.pic5{
+    background-image: url(aeserts/class1.jpg);
+    height: 25ch;
+    background-size: 100% 100%;
+}
+.price
+{
+    width: 20%;
+}
+.pic6{
+    background-image: url(aeserts/gallery4.jpg);
+    background-size: 100% 100%;
+    height: 50vh;
+
+}
+.pic7{
+    background-image: url(aeserts/gallery1.jpg);
+    background-size: 100% 100%;
+    height: 50vh;
+    filter: grayscale(1);
+    transition-duration: 1s;
+}
+.pic7:hover{
+    filter: none;
+}
+.pic8{
+    background-image: url(aeserts/gallery2.jpg);
+    background-size: 100% 100%;
+    height: 50vh;
+    filter: grayscale(1);
+    transition-duration: 1s;
+}
+.pic78:hover{
+    filter: none;
+}
+.pic9{
+    background-image: url(aeserts/gallery3.jpg);
+    background-size: 100% 100%;
+    height: 50vh;
+    filter: grayscale(1);
+    transition-duration: 1s;
+}
+.pic9:hover{
+    filter: none;
+}
+.pic10{
+    background-image: url(aeserts/gallery4.jpg);
+    background-size: 100% 100%;
+    height: 50vh;
+    filter: grayscale(1);
+    transition-duration: 1s;
+}
+.pic10:hover{
+    filter: none;
+}
+.inp{
+    width: 100%;
+    border: 1px solid white;
+    margin-top: 5%;
+    background-color: transparent;
+}
+.cd-para{
+    line-height: 1;
+}
